@@ -61,7 +61,7 @@ I am Jesús López Jaén,I am currently studying at the Academy Conquer Blocks [
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="https://facebook.com" target="blank"><img align="center" src="https://jesuslj0/jesuslj0/src/img/facebook-icon.svg" alt="icon-facebook" height="30" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://jesuslj0/jesuslj0/src/img/instagram-icon.svg" alt="" height="30" width="40" /></a>
-<a href="https://github.com/jesuslj0" target="blank"><img align="center" src="https://jesuslj0/jesuslj0/src/img/linkedin-icon.svg" alt="jesuslj0" height="30" width="40" /></a>
+<a href="https://facebook.com" target="blank"><img align="center" src="src/img/facebook-icon.svg" alt="icon-facebook" height="30" width="40" /></a>
+<a href="https://instagram.com" target="blank"><img align="center" src="src/img/instagram-icon.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/jesuslj0" target="blank"><img align="center" src="src/img/linkedin-icon.svg" alt="jesuslj0" height="30" width="40" /></a>
 <br>
