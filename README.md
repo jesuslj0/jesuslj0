@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesús</h1>
 
-I am Jesús López Jaén,I am currently studying at the Academy Conquer Blocks [ConquerBlocks]([https://www.conquerblocks.com/]). I am a tech enthusiast & a self learner.
+I am Jesús López Jaén,I am currently studying at the Academy Conquer Blocks[https://conquerblocks.com]. I am a tech enthusiast & a self learner.
 
 - 🌱 I’m currently learning ** React, Django and Astro **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
