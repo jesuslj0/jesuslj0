@@ -4,7 +4,7 @@ I am Jesús López Jaén,I am currently studying at the [Academia Conquer Blocks
 
 - 🌱 I’m currently learning ** React, Django and Astro **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with Mern **
+- 🤔 I’m looking for help with Mern 
 - 🥅 2025 Goals: To have my first job as junior developer.
 - ⚡ Fun fact: I love music, art & playing video games.
 
