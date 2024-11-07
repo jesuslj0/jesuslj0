@@ -8,8 +8,8 @@ I am Jesús López Jaén,I am currently studying at the [Academia Conquer Blocks
 - 🥅 2025 Goals: To have my first job as junior developer.
 - ⚡ Fun fact: I love music, art & playing video games.
 
-![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesuslj0&show_icons=true&count_private=true&theme=github_dark&v=2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuslj0&theme=github_dark&layout=compact)](https://github.com/jesuslj0)
+![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesuslj0&show_icons=true&count_private=true&theme=github_dark&)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuslj0&theme=github_dark&layout=compact&v=2)](https://github.com/jesuslj0)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
