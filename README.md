@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jesús</h1>
 
-<h3>I am Jesús López Jaén,I am currently studying at the [Academia Conquer Blocks](https://conquerblocks.com).</h3> 
+<h3>My name is Jesús López Jaén,i'm  currently studying at the [Academia Conquer Blocks](https://conquerblocks.com).</h3> 
 <p>I am a tech enthusiast & a self learner.</p>
 
 - 🌱 I’m currently learning ** Java, Angular and Node **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with Mern 
 - 🥅 2025 Goals: To have my first job as junior developer.
 - ⚡ Fun fact: I love music, art & playing video games.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuslj0&layout=donut-vertical&theme=github_dark)](https://github.com/jesuslj0)
 ![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesuslj0&show_icons=true&count_private=true&theme=github_dark&cache_seconds=3600)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuslj0&theme=github_dark&layout=compact&cache_seconds=3600)](https://github.com/jesuslj0)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -37,11 +36,14 @@
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-5DB93C?style=for-the-badge&logo=mongodb&logoColor=white">
+
 </span>
 
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-E53111?style=for-the-badge&logo=intellijidea&logoColor=white">
 
 <h4> Operating System </h4>
 <span>
@@ -55,7 +57,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <img src="https://img.shields.io/badge/AutoCAD-E20F0F?style=for-the-badge&logo=autocad&logoColor=white">
+  <img src="https://img.shields.io/badge/3Ds_Max-0F49E2?style=for-the-badge&logo=3dmax&logoColor=white">
 </span>
     
 ## 😂 Here is a random joke for visit my profile!
