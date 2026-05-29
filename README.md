@@ -1,19 +1,19 @@
 
 <div align="center">
 
-# ⚡ JESÚS LÓPEZ JAÉN ⚡
-
-### Full Stack Developer · Astro · Django · Systems Engineer
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff0ff,100:ff00ff&height=120&section=header"/>
 
 </div>
+
+<div align="center" style="font-family: ">
+
+<h1 style="font-family: Inter, Segoe UI, sans-serif"> ⚡ JESÚS LÓPEZ JAÉN ⚡</h1>
+
+<h4 style="font-family: Consolas, Monaco, monospace;"> Full Stack Developer · Astro · Django · Systems Engineer</h4>
+
+</div>
+
+
 
 ---
 
@@ -23,12 +23,12 @@
 USER: jesuslj0
 ROLE: Full Stack Developer
 FOCUS: Performance-first web systems
-STATUS: BUILDING FUTURE STACKS
+STATUS: BUILDING FUTURE STACKS ⚡
 ```
 
 ---
 
-## 🧠 CORE SYSTEM STACK
+<h2 style="font-family: Consolas, Monaco, monospace">🧠 CORE SYSTEM STACK </h2>
 
 ### Frontend Layer
 <p>
@@ -49,7 +49,7 @@ STATUS: BUILDING FUTURE STACKS
 
 ---
 
-## 🎛️ ENGINEERING MODULES
+<h2 style="font-family: Consolas, Monaco, monospace">🎛️  ENGINEERING MODULES</h2>
 
 ```txt
 > SSR / SSG architecture with Astro
@@ -61,7 +61,7 @@ STATUS: BUILDING FUTURE STACKS
 
 ---
 
-## ⚙️ ACTIVE PROCESS
+<h2 style="font-family: Consolas, Monaco, monospace">⚙️ ACTIVE PROCESS</h2>
 
 ```txt
 [RUNNING] Optimizing web performance systems
@@ -72,30 +72,29 @@ STATUS: BUILDING FUTURE STACKS
 
 ---
 
-## 📡 GITHUB SIGNALS
+<h2 style="font-family: Consolas, Monaco, monospace">📡 GITHUB SIGNALS</h2>
 
 <p align="center">
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=jesuslj0&theme=radical)
 
-<br/>
-
 ![Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesuslj0&theme=radical)
+<br/>
 
 </p>
 
 ---
 
-## 🔗 NETWORK ACCESS
+<h2 style="font-family: Consolas, Monaco, monospace">🔗 NETWORK ACCESS</h2>
 
-<p align="center">
+<p align="start">
 
 <a href="https://github.com/jesuslj0">
   <img src="https://img.shields.io/badge/GITHUB-0ff0ff?style=for-the-badge&logo=github&logoColor=000">
 </a>
 
-<a href="mailto:jesuslopj0@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-ff00ff?style=for-the-badge&logo=gmail&logoColor=000">
+<a href="mailto:yourmail@example.com">
+  <img src="https://img.shields.io/badge/GMAIL-ff00ff?style=for-the-badge&logo=gmail&logoColor=000">
 </a>
 
 </p>
@@ -116,6 +115,7 @@ STATUS: BUILDING FUTURE STACKS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:0ff0ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:0ff0ff&height=140&section=footer"/>
 
 </div>
+
