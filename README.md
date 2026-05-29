@@ -32,11 +32,11 @@ STATUS: BUILDING FUTURE STACKS ⚡
 
 ### Frontend Layer
 <p>
-  <img src="https://img.shields.io/badge/Astro-0ff0ff?style=for-the-badge&logo=astro&logoColor=000">
-  <img src="https://img.shields.io/badge/TailwindCSS-00ffe1?style=for-the-badge&logo=tailwind-css&logoColor=000">
-  <img src="https://img.shields.io/badge/JavaScript-ff00ff?style=for-the-badge&logo=javascript&logoColor=000">
   <img src="https://img.shields.io/badge/HTML5-00ffe1?style=for-the-badge&logo=html5&logoColor=000">
   <img src="https://img.shields.io/badge/CSS3-ff00ff?style=for-the-badge&logo=css3&logoColor=000">
+  <img src="https://img.shields.io/badge/JavaScript-ff00ff?style=for-the-badge&logo=javascript&logoColor=000">
+  <img src="https://img.shields.io/badge/Astro-0ff0ff?style=for-the-badge&logo=astro&logoColor=000">
+  <img src="https://img.shields.io/badge/TailwindCSS-00ffe1?style=for-the-badge&logo=tailwind-css&logoColor=000">
 </p>
 
 ### Backend Core
@@ -67,7 +67,7 @@ STATUS: BUILDING FUTURE STACKS ⚡
 [RUNNING] Optimizing web performance systems
 [RUNNING] Building production-ready full stack apps
 [RUNNING] Improving backend architecture design
-[RUNNING] Designing reusable UI systems
+[RUNNING] Designing reusable web templates
 ```
 
 ---
