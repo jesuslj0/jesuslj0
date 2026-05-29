@@ -93,7 +93,7 @@ STATUS: BUILDING FUTURE STACKS ⚡
   <img src="https://img.shields.io/badge/GITHUB-0ff0ff?style=for-the-badge&logo=github&logoColor=000">
 </a>
 
-<a href="mailto:yourmail@example.com">
+<a href="mailto:jesuslopj0@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-ff00ff?style=for-the-badge&logo=gmail&logoColor=000">
 </a>
 
