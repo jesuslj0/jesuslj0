@@ -23,12 +23,12 @@
 USER: jesuslj0
 ROLE: Full Stack Developer
 FOCUS: Performance-first web systems
-STATUS: BUILDING FUTURE STACKS ⚡
+STATUS: BUILDING FUTURE STACKS
 ```
 
 ---
 
-## ⚡ CORE SYSTEM STACK
+## 🧠 CORE SYSTEM STACK
 
 ### Frontend Layer
 <p>
@@ -49,7 +49,7 @@ STATUS: BUILDING FUTURE STACKS ⚡
 
 ---
 
-## 🧠 ENGINEERING MODULES
+## 🎛️ ENGINEERING MODULES
 
 ```txt
 > SSR / SSG architecture with Astro
@@ -76,11 +76,11 @@ STATUS: BUILDING FUTURE STACKS ⚡
 
 <p align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jesuslj0&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=jesuslj0&theme=radical)
 
 <br/>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuslj0&layout=donut&theme=radical&hide_border=true)
+![Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesuslj0&theme=radical)
 
 </p>
 
@@ -94,7 +94,7 @@ STATUS: BUILDING FUTURE STACKS ⚡
   <img src="https://img.shields.io/badge/GITHUB-0ff0ff?style=for-the-badge&logo=github&logoColor=000">
 </a>
 
-<a href="mailto:yourmail@example.com">
+<a href="mailto:jesuslopj0@gmail.com">
   <img src="https://img.shields.io/badge/CONTACT-ff00ff?style=for-the-badge&logo=gmail&logoColor=000">
 </a>
 
