@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff0ff,100:ff00ff&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00d4ff,50:0066ff,100:7235b0&section=header"/>
 
 </div>
 
@@ -116,6 +116,7 @@ STATUS: BUILDING FUTURE STACKS ⚡
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:0ff0ff&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00d4ff,50:0066ff,100:7235b0&section=footer"/>
 
 </div>
 
