@@ -9,7 +9,7 @@
 
 <h1 style="font-family: Inter, Segoe UI, sans-serif"> ⚡ JESÚS LÓPEZ JAÉN ⚡</h1>
 
-<h4 style="font-family: Consolas, Monaco, monospace;"> Full Stack Developer · Astro · Django · Systems Engineer</h4>
+<h4 style="font-family: Consolas, Monaco, monospace;"> Full Stack Developer · Systems Design · AI Powered</h4>
 
 </div>
 
